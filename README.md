@@ -2,11 +2,11 @@
 파이썬으로 만든 간단한 타자연습 프로그램입니다
 
 # 사용한 라이브러리
-tqdm https://github.com/tqdm/tqdm - 반복문 진행률 바에 사용
+[tqdm](https://github.com/tqdm/tqdm) - 반복문 진행률 바에 사용
 
-hgtk https://github.com/bluedisk/hangul-toolkit - 한글 자음 모음 분리 저장 / 오타율 추적에 사용
+[hgtk](https://github.com/bluedisk/hangul-toolkit) - 한글 자음 모음 분리 저장 / 오타율 추적에 사용
 
-six https://github.com/benjaminp/six - six에 의존하는 라이브러리가 있었음
+[six](https://github.com/benjaminp/six) - six에 의존하는 라이브러리가 있었음
 
 statistics - 오타율, 타수, 정확도 등의 평균을 구하는데 사용
 
