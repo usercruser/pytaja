@@ -14,7 +14,7 @@ git repo :
 git clone https://github.com/usercruser/pytaja.git/
 ```
 
-# 사용한 라이브러리
+## 사용한 라이브러리
 [tqdm](https://github.com/tqdm/tqdm) - 반복문 진행률 바에 사용
 
 [hgtk](https://github.com/bluedisk/hangul-toolkit) - 한글 자음 모음 분리 저장 / 오타율 추적에 사용
@@ -23,5 +23,5 @@ git clone https://github.com/usercruser/pytaja.git/
 
 statistics - 오타율, 타수, 정확도 등의 평균을 구하는데 사용
 
-# 버그
+## 버그
 아치리눅스 KDE Wayland환경 fcitx 입력기 konsole 환경에서 오류가 있스빈다 지우는데 이상하게 지워지네오
