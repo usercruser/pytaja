@@ -3,8 +3,11 @@
 
 # 사용한 라이브러리
 tqdm https://github.com/tqdm/tqdm - 반복문 진행률 바에 사용
+
 hgtk https://github.com/bluedisk/hangul-toolkit - 한글 자음 모음 분리 저장 / 오타율 추적에 사용
+
 six https://github.com/benjaminp/six - hgtk가 six에 의존
+
 statistics - 오타율, 타수, 정확도 등의 평균을 구하는데 사용
 
 # 버그
