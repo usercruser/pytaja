@@ -7,7 +7,7 @@
 
 data 파일에 크게 의존중이기에 client.py 파일만 받을 시 실행이 안되니 무조건 전체 파일을 다운로드 후 같은 디렉토리에 넣어주시기 바랍니다
 
-git :
+git repo :
 ```bash
 git clone https://github.com/usercruser/pytaja.git/
 ```
