@@ -23,6 +23,3 @@ git clone https://github.com/usercruser/pytaja.git/
 [six](https://github.com/benjaminp/six) - six에 의존하는 라이브러리가 있었음
 
 statistics - 오타율, 타수, 정확도 등의 평균을 구하는데 사용
-
-## 버그
-아치리눅스 KDE Wayland환경 fcitx 입력기 konsole 환경에서 오류가 있스빈다 지우는데 이상하게 지워지네오
