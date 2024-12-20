@@ -1,6 +1,3 @@
-# 하모니카 기본내장 한메타자교사보고 생각나서 만들어봄
-# 개춥네 감기조심하세요
-#
 from datetime import datetime
 from tqdm import tqdm
 import random
