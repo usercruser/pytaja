@@ -1,4 +1,6 @@
 # PyTAJA - 파이타자
+[바부들을 위한 빠른 다운로드](https://github.com/usercruser/pytaja/archive/refs/heads/main.zip)
+
 파이썬으로 만든 간단한 타자연습 프로그램입니다
 
 실행시키려면 먼저 pip가 있어야 하며, 아래 표기된 라이브러리를 pip를 통해 받으셔야합니다
