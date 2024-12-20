@@ -1,5 +1,5 @@
 # PyTAJA - 파이타자
-[바부들을 위한 빠른 다운로드](https://github.com/usercruser/pytaja/archive/refs/heads/main.zip)
+[빠른 다운로드 ↓](https://github.com/usercruser/pytaja/archive/refs/heads/main.zip)
 
 파이썬으로 만든 간단한 타자연습 프로그램입니다
 
