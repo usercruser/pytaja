@@ -192,7 +192,7 @@ def alert():
     var = getkey()
     if var == keys.ENTER:
         clearThing()
-        print("\033[34m\n- - ~\033[36m ~ = =\033[0m 주 의 사 항  2\033[36m = = ~\033[34m ~ - -\n\033[0m\nGNU/Linux DE: KDE(WM : KWIN), Wayland, fcitx입력기 환경에서\nbackspace 입력시 글자가 잘리는 현상이 발견되었습니다.\n이 환경에 해당하시는 분이라면 불편을 감수하고 사용바랍니다.\nGUI 버전 개발중이니 그때까지만 참아주세요 ㅠ")
+        print("\033[34m\n- - ~\033[36m ~ = =\033[0m 주 의 사 항  2\033[36m = = ~\033[34m ~ - -\n\033[0m\nGNU/Linux DE: KDE(WM : KWIN), Wayland, fcitx입력기 환경에서\nbackspace 입력시 글자가 잘리는 현상이 발견되었습니다.\n이 환경에 해당하시는 분이라면 불편을 감수하고 사용바랍니다.\nQtDesigner 이용한 GUI 버전 개발중이니 그때까지만 참아주세요 ㅠ")
         print("\n\033[1m네, 확인했습니다. [엔터]\033[0m")
         var = getkey()
         if var == keys.ENTER:
