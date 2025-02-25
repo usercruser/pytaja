@@ -12,6 +12,14 @@ run.sh는 실행시키기 이전에 chmod를 먼저 해주어야합니다.
 ```zsh
 chmod +x ./run.sh
 ```
+run.sh 파일은 내용중에 python3(에이설마), 혹은 python-pip(에이설마)를 설치하지 않으신 분들을 위해
+
+sudo 명령을 포함한 패키지 관리자 명령어 몇개를 포함하고있습니다.
+
+따라서 실행시키려면 ./run.sh가 아닌 다음의 명령을 이용하셔야합니다.
+```zsh
+sudo bash ./run.sh
+```
 
 ## 사용한 "유저" 라이브러리
 [tqdm](https://github.com/tqdm/tqdm) - 반복문 진행률 바에 사용
