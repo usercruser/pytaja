@@ -6,18 +6,14 @@
 하모니카 OS 기본 내장 한메타자교사 보고 생각나서 만들어봤어요
 
 ## 가이드
-실행시키려면 먼저 pip가 있어야 하며, 아래 표기된 라이브러리를 pip를 통해 받으셔야합니다
+실행 이전에 우선 run.bat 또는 run.sh 파일을 실행시켜주세요.
 
-run.sh(bash), run.ps1(powershell)파일을 실행해 앞서 설명한 라이브러리를 빠르게 설치 하실 수 있습니다.
-
-data 파일에 크게 의존중이기에 client.py 파일만 받을 시 실행이 안되니 무조건 전체 파일을 다운로드 후 같은 디렉토리에 넣어주시기 바랍니다
-
-git repo :
-```bash
-git clone https://github.com/usercruser/pytaja.git/
+run.sh는 실행시키기 이전에 chmod를 먼저 해주어야합니다.
+```zsh
+chmod +x ./run.sh
 ```
 
-## 사용한 라이브러리
+## 사용한 "유저" 라이브러리
 [tqdm](https://github.com/tqdm/tqdm) - 반복문 진행률 바에 사용
 
 [hgtk](https://github.com/bluedisk/hangul-toolkit) - 한글 자음 모음 분리 저장 / 오타율 추적에 사용
