@@ -29,3 +29,7 @@ sudo bash ./run.sh
 [six](https://github.com/benjaminp/six) - six에 의존하는 라이브러리가 있었음
 
 ## 인 앱 스크린샷
+![Image](https://github.com/user-attachments/assets/506c08bd-b66c-4237-8334-79581beb53b4)
+![Image](https://github.com/user-attachments/assets/e2707d61-c432-4200-88c6-f703741a5761)
+![Image](https://github.com/user-attachments/assets/c2411ebb-da8b-4ef2-aac6-4abe97c95c44)
+![Image](https://github.com/user-attachments/assets/7ccd2496-e00f-43bb-8ee1-c71ef92e6258)
