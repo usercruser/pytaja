@@ -31,27 +31,49 @@ sudo bash ./run.sh
 ## 인 앱 스크린샷
 ![Image](https://github.com/user-attachments/assets/c2411ebb-da8b-4ef2-aac6-4abe97c95c44)
 
-↑ 메인 화면 스크린샷
+**↑ 메인 화면 스크린샷**
 
 ![Image](https://github.com/user-attachments/assets/506c08bd-b66c-4237-8334-79581beb53b4)
 ![Image](https://github.com/user-attachments/assets/e2707d61-c432-4200-88c6-f703741a5761)
 
-↑ 실행하면 나오는 경고창 2개 (중요합니다)
+**↑ 실행하면 나오는 경고창 2개 (중요합니다)**
 
 ![Image](https://github.com/user-attachments/assets/7ccd2496-e00f-43bb-8ee1-c71ef92e6258)
 
-↑ 기본자리 스크린샷
+**↑ 기본자리 스크린샷**
 
 ![Image](https://github.com/user-attachments/assets/89d8156b-b0b6-462d-b0c7-0b9e304d862e)
 
-↑ 기본자리 결과창 스크린샷
+**↑ 기본자리 결과창 스크린샷**
 
 ![Image](https://github.com/user-attachments/assets/62cda774-4f09-43a4-adea-935b26a52387)
 
-↑ 장문연습 선택창 스크린샷
+**↑ 장문연습 선택창 스크린샷**
 
 ![Image](https://github.com/user-attachments/assets/da4a4f92-b5d4-4fbe-8527-271c58e4081f)
 ![Image](https://github.com/user-attachments/assets/7c7e9469-ef87-4d20-b71c-c19f921eca64)
 ![Image](https://github.com/user-attachments/assets/4672a967-cc68-4691-bd27-f2cbad605f77)
 
-↑ 장문연습 스크린샷
+**↑ 장문연습 스크린샷**
+
+![Image](https://github.com/user-attachments/assets/ac751865-9bca-4fa2-8ff3-8b251a66ade6)
+
+**↑ 도움말(help) 스크린샷**
+
+![Image](https://github.com/user-attachments/assets/98db7153-9ccd-422d-b8d2-1ba096f49b7b)
+
+**↑ 정보(about) 스크린샷**
+
+![Image](https://github.com/user-attachments/assets/bade252f-2c0c-40a9-829c-26f80b29a655)
+
+**↑ 만든 사람들(credits) 스크린샷**
+
+![Image](https://github.com/user-attachments/assets/a87554ce-ac0c-453e-adc9-228c25185f36)
+
+**↑ 저작권(copyright) 스크린샷**
+
+![Image](https://github.com/user-attachments/assets/dcdcc146-b5a2-421d-b7a0-f8e44031a012)
+
+**↑ 시간(time) 스크린샷**
+
+별좀 찍어줘요잉
