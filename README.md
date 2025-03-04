@@ -27,3 +27,5 @@ sudo bash ./run.sh
 [hgtk](https://github.com/bluedisk/hangul-toolkit) - 한글 자음 모음 분리 저장 / 오타율 추적에 사용
 
 [six](https://github.com/benjaminp/six) - six에 의존하는 라이브러리가 있었음
+
+## 인 앱 스크린샷
